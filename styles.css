@@ -1,0 +1,37 @@
+body {
+    margin: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-all {
+	width: 400px;
+	padding: 0px 20px;
+	
+	color: #2b2839;
+	background-color: pink;
+	
+	margin: 0px auto;
+	border-bottom: 16px solid #ddebf8;
+}
+
+.card-top {
+	font-size: 80px;
+	text-align: center;
+}
+
+.card-middle {
+	border: 5px dotted black;
+	text-align: center;
+}
+
+.card-bottom {
+	display: flex;
+	text-align: left;
+	
+}
+
+.chopper-image {
+	width: 300px;
+	display: block;
+	margin: 0px auto 10px auto;
+}
